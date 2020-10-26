@@ -44,3 +44,5 @@ This repository contains the workproduct of a research project motivated by the 
       1. e.g. a connected planar graph, embedded in the plane, always has 4 sub graphs with the following characteristics.
       2. e.g. to form a connected planar graph of three subgraphs with the following constraints each sub graph must have the following characteristics.
    2. What about n x n tiles and k x k boards?
+
+THEOREM: A decomposition of the matrix formed by the microrobots board into 4 equal subgraphs where you do not delete any edges or nodes always results in a connected graph in any permutation of placements or rotations if the original graph was connected.
