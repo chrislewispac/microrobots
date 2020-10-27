@@ -45,4 +45,21 @@ This repository contains the workproduct of a research project motivated by the 
       2. e.g. to form a connected planar graph of three subgraphs with the following constraints each sub graph must have the following characteristics.
    2. What about n x n tiles and k x k boards?
 
-THEOREM: A decomposition of the matrix formed by the microrobots board into 4 equal subgraphs where you do not delete any edges or nodes always results in a connected graph in any permutation of placements or rotations if the original graph was connected.
+The following four boards are connected in every iteration
+====================================================
+
+Randomly Generated
+--------------
+
+  
+![Randomly Generated 1](randomconnected1.JPG)
+
+![Randomly Generated 2](randomconnected2.JPG)
+
+ Actual Microrobots Boards
+ --------------
+
+  
+![Blackside Boards](blacksideboard.JPG)
+
+![Copperside Boards](coppersideboard.JPG)
